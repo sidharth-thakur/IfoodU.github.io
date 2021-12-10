@@ -66,7 +66,11 @@ ul.social-icons li a:hover {
 .pad {
   padding: 40px;
 }
-
+@media (min-width: 350px) {
+  .pad {
+    padding: 0;
+  }
+}
 a.filled-button {
   background-color: #f33f3f;
   color: #fff;
@@ -602,7 +606,7 @@ footer .inner-content p a {
 /* Product Page */
 
 .products {
-  margin-top: 100px;
+  margin-top: 70px;
 }
 
 .products .filters {
@@ -986,6 +990,9 @@ footer .inner-content p a {
     margin-left: 0px;
   }
   .carousel-item {
+    margin-top: 50px;
+  }
+  .products {
     margin-top: 50px;
   }
 }
