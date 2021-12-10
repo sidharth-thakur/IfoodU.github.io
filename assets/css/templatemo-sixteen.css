@@ -63,14 +63,14 @@ ul.social-icons li a:hover {
   color: #fff;
 }
 /* useless eperiment */
-.pad {
+/* .pad {
   padding: 40px;
 }
 @media (min-width: 350px) {
   .pad {
     padding: 0;
   }
-}
+} */
 a.filled-button {
   background-color: #f33f3f;
   color: #fff;
