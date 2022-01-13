@@ -396,7 +396,7 @@ h6,
   font-family: inherit;
   font-weight: 500;
   line-height: 1.2;
-  color: inherit;
+  color: black;
 }
 
 h1,
@@ -1301,9 +1301,9 @@ pre code {
     max-width: 25%;
   }
   .col-lg-4 {
-    -ms-flex: 0 0 33.333333%;
-    flex: 0 0 33.333333%;
-    max-width: 33.333333%;
+    -ms-flex: 0 0 30%;
+    flex: 0 0 30%;
+    max-width: 30%;
   }
   .col-lg-5 {
     -ms-flex: 0 0 41.666667%;
